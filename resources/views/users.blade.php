@@ -8,7 +8,7 @@
   <title>List of users</title>
 </head>
 <body>
-<div id="app"></div>
+<div id="app" class="flex items-center justify-center h-screen"></div>
 <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
